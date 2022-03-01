@@ -1,0 +1,7 @@
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\2лб\BEIS-20_Ustinenkova_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
