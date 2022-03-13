@@ -19,51 +19,51 @@ namespace WindowsFormsApplication1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(textBox1.Text);
+            double a = Convert.ToDouble(textBox1.Text);
 
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            int b = Convert.ToInt32(textBox2.Text);
+            double b = Convert.ToDouble(textBox2.Text);
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            int c = Convert.ToInt32(textBox3.Text);
+            double c = Convert.ToDouble(textBox3.Text);
            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(textBox1.Text);
-            int b = Convert.ToInt32(textBox2.Text);
-            int c = a * b;
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            double c = a * b;
             textBox3.Text = c.ToString();
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(textBox1.Text);
-            int b = Convert.ToInt32(textBox2.Text);
-            int c = a / b;
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            double c = a / b;
             textBox3.Text = c.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(textBox1.Text);
-            int b = Convert.ToInt32(textBox2.Text);
-            int c = a - b;
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            double c = a - b;
             textBox3.Text = c.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(textBox1.Text);
-            int b = Convert.ToInt32(textBox2.Text);
-            int c = a + b;
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            double c = a + b;
             textBox3.Text = c.ToString();
         }
 
